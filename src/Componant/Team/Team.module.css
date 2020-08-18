@@ -1,0 +1,11 @@
+.Img {
+  border-radius: 100%;
+  margin-top: 20px;
+  width: 60%;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+.Row {
+  width: 80%;
+  margin: auto;
+}

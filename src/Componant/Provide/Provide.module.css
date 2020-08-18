@@ -1,0 +1,63 @@
+.providUpperDiv {
+  padding: 10%;
+
+  color: white;
+  text-align: left;
+}
+.ProvideH1 {
+  margin-top: 15px;
+}
+.ProvideA {
+  font-size: 250%;
+  text-decoration: underline;
+}
+.ProvideBtn {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 18px;
+}
+.ProvideBtn2 {
+  margin-top: 10px;
+  border: 2px solid white;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 18px;
+  color: white;
+}
+.Img {
+  margin-top: 5%;
+  padding-bottom: 10%;
+}
+.providUpperDiv {
+  /* Location of the image */
+  background-image: url(../../Images/intro-bg.png);
+
+  /* Image is centered vertically and horizontally at all times */
+  background-position: center center;
+
+  /* Image doesn't repeat */
+  background-repeat: no-repeat;
+
+  /* Makes the image fixed in the viewport so that it doesn't move when 
+       the content height is greater than the image height */
+  /* background-attachment: fixed; */
+
+  /* This is what makes the background image rescale based on its container's size */
+  background-size: cover;
+
+  /* Pick a solid background color that will be displayed while the background image is loading */
+
+  /* SHORTHAND CSS NOTATION
+     * background: url(background-photo.jpg) center center cover no-repeat fixed;
+     */
+}
+
+/* For mobile devices */
+@media only screen and (max-width: 767px) {
+  .providUpperDiv {
+    /* The file size of this background image is 93% smaller
+       * to improve page load speed on mobile internet connections */
+    background-image: url(../../Images/intro-bg.png);
+  }
+}

@@ -1,0 +1,38 @@
+.UpperDiv {
+  text-align: center;
+  padding-top: 8%;
+}
+.AboutUsP {
+  margin: auto;
+  color: #5f6769;
+  width: 50%;
+}
+.AboutRow {
+  text-align: left;
+  margin-top: 4%;
+  color: #5f6769;
+}
+.AboutImg {
+  margin-top: 2%;
+}
+.AboutIcon {
+  margin-top: 30%;
+  color: blue;
+  font-size: 300%;
+  border: 2px solid blue;
+  border-radius: 100%;
+  padding: 7px;
+}
+.extra1div {
+  margin-top: 10%;
+}
+.H5 {
+  max-width: 60em;
+  overflow: hidden;
+  white-space: nowrap;
+}
+@media only Screen and (max-width: 634px) {
+  .AboutIcon {
+    margin-top: 5%;
+  }
+}

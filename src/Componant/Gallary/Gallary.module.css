@@ -1,0 +1,18 @@
+.gallery {
+  width: 90%;
+  margin: auto;
+}
+.portfolio {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.portfolioBtn {
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 15px;
+  margin-bottom: 10px;
+}
+.portfolioBtn:focus {
+  background-color: #fabea7;
+  border: none !important;
+}

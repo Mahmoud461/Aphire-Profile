@@ -1,0 +1,63 @@
+.clints {
+  background-color: #bbe1fa;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+}
+.Row {
+  margin: auto;
+  text-align: center;
+  box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.08);
+  transition: box-shadow 0.3s ease-in-out;
+}
+.Img {
+  /* margin: auto;
+  margin: 1px;
+  margin-top: 11%; */
+  width: 150px;
+  height: 70px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+.Col {
+  height: 150px;
+  text-align: center;
+  position: relative;
+  background-color: white;
+  border: 1px solid #bbe1fa;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.15);
+  transition: box-shadow 0.3s ease-in-out;
+}
+.Img7 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 150px;
+  height: 50px;
+}
+
+.H1 {
+  padding-top: 20px;
+  margin: 20px;
+  color: #3282b8;
+}
+.P {
+  color: #3282b8;
+}
+.Col:hover {
+  box-shadow: 0 20px 25px rgba(0, 0, 0, 0.3);
+}
+
+@media only screen and (max-width: 633px) {
+  .clintsContainer {
+    width: 70%;
+    margin: auto;
+  }
+}

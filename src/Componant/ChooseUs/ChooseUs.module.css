@@ -1,0 +1,55 @@
+.transImg {
+  width: 100px;
+  height: 100px;
+  z-index: 10;
+}
+
+.cardDiv {
+  background-color: #e5e6e4;
+
+  height: 100%;
+  padding: 10px;
+  margin-top: 10%;
+}
+.cardContainer {
+  margin-top: 5%;
+  padding-top: 20px;
+  color: white;
+  background-color: #1f4068;
+}
+.divTitle {
+  margin-top: 30px;
+}
+
+.card {
+  width: 80%;
+  padding: 20px 10px 10px 10px;
+  margin-left: 10%;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  height: 320px;
+  color: white;
+  border-radius: 10px;
+  background-color: #394989;
+}
+
+.ComputerIcon {
+  font-size: 400%;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+.row {
+  margin-bottom: 40px;
+  margin-top: 3%;
+}
+.cardH62 {
+  margin-top: 50px;
+}
+
+.buttomRow {
+  font-size: 80%;
+}
+.buttomRowh {
+  font-size: 400%;
+}

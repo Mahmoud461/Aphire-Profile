@@ -1,0 +1,7 @@
+.scrolUp {
+  background-color: blue;
+}
+.nav {
+  margin-top: 10px;
+  z-index: 10000px;
+}

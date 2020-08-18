@@ -1,0 +1,49 @@
+.map {
+  margin-left: 5%;
+  margin-top: 1%;
+  height: 100%;
+  margin-bottom: 4%;
+}
+.ContactH1 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.mabLabel {
+  margin-left: 3%;
+  margin-right: 20px;
+  text-align: left;
+  color: #4ea0ae;
+  font-size: 85%;
+}
+.info {
+  text-align: left;
+}
+.icons {
+  color: #4ea0ae;
+  font-size: 17px;
+}
+.input1 {
+  width: 45%;
+  text-align: left;
+  margin-right: 4%;
+}
+.Input {
+  padding: 20px;
+  text-align: left;
+  margin-left: -1%;
+  margin-top: -10px;
+}
+.input2 {
+  width: 94%;
+
+  margin-top: 15px;
+}
+.input3 {
+  width: 94%;
+
+  margin-top: 15px;
+}
+.Btn {
+  margin-right: 25%;
+  border-radius: 15px;
+}

@@ -1,0 +1,12 @@
+.pImg {
+  border-radius: 100%;
+  margin-right: -30%;
+}
+.info {
+  text-align: left !important;
+}
+@media only Screen and (max-width: 634px) {
+  .pImg {
+    margin-right: 0;
+  }
+}
